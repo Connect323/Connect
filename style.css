@@ -435,6 +435,10 @@ section {
     color: #331694;
 }
 
+#servicos .card-front p {
+    font-family: var(--fonte-titulo);
+}
+
 .card-front svg {
     width: 60%;
     height: auto;
@@ -967,7 +971,8 @@ footer .bloco p {
 
     .card-valor, .card-container {
         width: 100%;
-        max-width: 415px;
+        max-width: 300px;
+        max-height: 400px;
     }
     
     .card-container {
