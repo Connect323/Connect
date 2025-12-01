@@ -951,6 +951,15 @@ footer .bloco p {
         display: none;
     }
 
+    #send-btn {
+        width: 20px;
+        height: 20px;
+    }
+
+    #user-input {
+        font-size: 12px;
+    }
+
     .sobre-texto h2, #avaliacoes h2, #contato h2 {
         font-size: 3rem;
     }
@@ -1013,6 +1022,15 @@ footer .bloco p {
         width: 100%;
         max-width: 300px;
         max-height: 400px;
+    }
+
+    #send-btn {
+        width: 20px;
+        height: 20px;
+    }
+
+    #user-input {
+        font-size: 12px;
     }
     
     .card-container {
