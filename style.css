@@ -925,12 +925,12 @@ footer .bloco p {
     }
     
     #bot-launcher {
-        width: 60px;
-        height: 60px;
+        width: 40px;
+        height: 40px;
     }
 
     #chat-window {
-        width: 300px;
+        width: 350px;
         height: 500px;
     }
 
@@ -999,7 +999,7 @@ footer .bloco p {
     }
 
     #chat-window {
-        width: 300px;
+        width: 350px;
         height: 500px;
     }
 
@@ -1025,8 +1025,8 @@ footer .bloco p {
     }
 
     #send-btn {
-        width: 20px;
-        height: 20px;
+        width: 40px;
+        height: 40px;
     }
 
     #user-input {
