@@ -746,9 +746,9 @@ footer .bloco p {
 }
 
 .header-info h3 {
+    color: white;
     margin: 0;
     font-size: 16px;
-    font-weight: 600;
 }
 
 .header-info p {
@@ -961,7 +961,25 @@ footer .bloco p {
     .sobre-texto h2, #avaliacoes h2, #contato h2 {
         font-size: 2.5rem;
     }
+    
+    #bot-launcher {
+        width: 60px;
+        height: 60px;
+    }
 
+    #chat-window {
+        width: 300px;
+        height: 500px;
+    }
+
+    .card-back .text-content h3 {
+        font-size: 1rem;
+    }
+
+    .card-back .text-content p {
+        font-size: 0.8rem;
+    }
+    
     #valores .container-cards,
     .container-cards-servicos {
         flex-direction: column;
