@@ -373,6 +373,10 @@ section {
    7. SEÇÃO SERVIÇOS (Cards Flip)
    ========================================================================== */
 /* --- Seção Serviços (Cards Flip) --- */
+#banner-servicos img {
+   width: 100%;
+}
+
 #servicos {
     text-align: center;
     padding: 5rem 0;
